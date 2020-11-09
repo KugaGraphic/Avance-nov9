@@ -13,12 +13,7 @@
 ## INFOGRAFIA MAQUETA
 ![ScreenShot](https://raw.githubusercontent.com/KugaGraphic/Avance-nov9/main/images/Maqueta%20pumas.png)
 
-## :art: :art: Referentes de estilo :art: :art:
-Apuntamos a lograr generar una estética de estilo kawaii para gráficar la información. 
-![ScreenShot](https://raw.githubusercontent.com/KugaGraphic/Avance-nov2/gh-pages/images/kawaii.png)
 
-Utilizaremos un recurso de pictoline, el cual consta de integrar personajes atingentes al tema, y reconocidos por el colectivo social, para ejemplificar el tema a tratar.
-![ScreenShot](https://raw.githubusercontent.com/KugaGraphic/Avance-nov2/gh-pages/images/Ref1.png)
 ## Información para infografía
 
 ## 1. Avistamientos de Pumas en pericentro
