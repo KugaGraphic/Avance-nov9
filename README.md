@@ -11,7 +11,7 @@
 6. Cambios a considerar para la Nueva constitución
 7. Cierre - Otras especies afectadas
 ## INFOGRAFIA MAQUETA
-![ScreenShot](https://raw.githubusercontent.com/KugaGraphic/Avance-nov9/main/images/Maqueta%20pumas.png)
+![ScreenShot](https://raw.githubusercontent.com/KugaGraphic/Avance-nov9/main/images/1234.png)
 
 
 ## Información para infografía
