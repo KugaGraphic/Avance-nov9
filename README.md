@@ -1,11 +1,3 @@
-**negrita**
-* puntito
-*cursiva?*
-
-[link](link.com)
-> texto distitno
-![ScreenShot](https://raw.githubusercontent.com/KugaGraphic/Avance-nov2/gh-pages/images/kawaii.png)
-
 # :clapper: Avance de Trabajo de Infografía *animales y delimitación urbana*
 ## ESTRUCTURA
 1. Avistamientos de Pumas en pericentro
