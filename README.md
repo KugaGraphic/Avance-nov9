@@ -1,4 +1,4 @@
-# :clapper: Avance de Trabajo de Infografía *animales y delimitación urbana*
+# :clapper: Avance de Trabajo de Infografía *Fauna Nativa y delimitación urbana*
 ## ESTRUCTURA
 1. Avistamientos de Pumas en pericentro
  *Mapa con avistamientos en svg* 
@@ -49,7 +49,7 @@ Las herramientas con que el país cuenta para asegurar un desarrollo sustentable
 
 >Esta modificación, conocida como PRMS100, no sólo consiste en transformar 10 mil hectáreas agrícolas a urbanas, habilitándolas como Zonas Urbanas Condicionadas (ZUC). Son muchísimas más las hectáreas agrícolas que estaban establecidas en el PRMS vigente hasta esta promulgación, que se habilitan como urbanas, sin los condicionamientos establecidos para las Zonas Urbanas Condicionadas.
 
-## 5. Derechos de animales en constitución
+## 5. Derechos de la Fauna Nativa en la constitución
 Otro factor importante es cómo se resguardan la ley y la constitución, las vidas de quienes están siendo afectados, y como estas se estan invisibilizando frente a los intereses empresariales y las necesidades de la ciudad en crecimiento
 
 :page_with_curl:[LEY 20380. SOBRE PROTECCIÓN DE ANIMALES](http://bcn.cl/2idag) 
