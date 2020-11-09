@@ -45,3 +45,28 @@ En la medida que el país ha crecido y la mayoría de las personas se ha radicad
 Las herramientas con que el país cuenta para asegurar un desarrollo sustentable, que considere sus efectos en las personas y el territorio, son insuficientes. Los proyectos urbanos en general se insertan en la ciudad sin entenderla como un organismo complejo en que las acciones de una parte afectan al todo. Las decisiones de intervenir el territorio no siempre se toman considerando los efectos sociales de tales intervenciones ni los sistemas naturales en que se insertan.
 
 “A medida que los sectores altos de la ciudad se van expandiendo hacia zonas precordilleranas, y cada vez más gente puebla estos espacios, más invadimos el hábitat del puma, relegando a éste hacia la cordillera. Aparte de esa presión física, o geográfica, también hay una presión indirecta, en el sentido de que, al haber más gente, demandamos y sobreexplotamos recursos como el agua, impidiendo que la vida en los entornos naturales se desarrolle plenamente”.
+
+## 4. Regulación de urbanización y sus problemas
+
+- :page_with_curl:[Un nuevo lucro: la desafectación de áreas verdes](https://www.ciperchile.cl/2013/02/19/un-nuevo-lucro-la-desafectacion-de-areas-verdes/)
+
+>En 2004, a través de la Ley Nº 19.939, el Congreso modificó la Ley General de Urbanismo y Construcciones (LGUC) para fijar una caducidad de cinco y diez años a la declaratoria de utilidad pública de terrenos urbanos. Al cumplirse el plazo, el terreno pasaría automáticamente a tener otro uso. Desde entonces, las áreas verdes han ido desapareciendo para dar espacio a nuevos proyectos inmobiliarios. En febrero de 2004, a través de la Ley Nº 19.939, y a instancias de Jaime Ravinet, ministro de Vivienda y Urbanismo (Minvu) de la época, los parlamentarios en ejercicio cometieron un garrafal error, algunos de ellos sin sospechar sus consecuencias. Así, modificaron el artículo 59º de la Ley General de Urbanismo y Construcciones (LGUC), fijándole una caducidad de cinco y diez años a la declaratoria de utilidad pública de los terrenos definidos como ensanches y aperturas de calles, parques intercomunales y comunales, localizados en las áreas urbanas y de extensión urbana consultados en los planes reguladores de todas las comunas y en los planes intercomunales de las regiones que contaban con dichos instrumentos de mayor rango.
+
+- :page_with_curl:[Modificación al Plano Regulador Metropolitano de Santiago](https://www.ciperchile.cl/2014/02/17/aprobacion-del-prms100-y-la-%E2%80%9Ccaptura-del-estado%E2%80%9D-por-el-poder-economico/)
+
+>Esta modificación, conocida como PRMS100, no sólo consiste en transformar 10 mil hectáreas agrícolas a urbanas, habilitándolas como Zonas Urbanas Condicionadas (ZUC). Son muchísimas más las hectáreas agrícolas que estaban establecidas en el PRMS vigente hasta esta promulgación, que se habilitan como urbanas, sin los condicionamientos establecidos para las Zonas Urbanas Condicionadas.
+
+## 5. Derechos de animales en constitución
+Otro factor importante es cómo se resguardan la ley y la constitución, las vidas de quienes están siendo afectados, y como estas se estan invisibilizando frente a los intereses empresariales y las necesidades de la ciudad en crecimiento
+
+:page_with_curl:[LEY 20380. SOBRE PROTECCIÓN DE ANIMALES](http://bcn.cl/2idag) 
+
+>Artículo 1°.- Esta ley establece normas destinadas a conocer, proteger y respetar a los animales, como seres vivos y parte de la naturaleza, con el fin de darles un trato adecuado y evitarles sufrimientos innecesarios.
+
+>Artículo 3°.- Toda persona que, a cualquier título, tenga un animal, debe cuidarlo y proporcionarle alimento y albergue adecuados, de acuerdo, al menos, a las necesidades mínimas de cada especie y categoría y a los antecedentes aportados por la ciencia y la experiencia.
+
+>**La libertad de movimiento de los animales silvestres no debe ser restringida de manera innecesaria, especialmente si ello les ocasione sufrimiento y alteración de su normal desarrollo**
+
+## 6. Cambios a considerar para la Nueva constitución
+## 7. Cierre - Otras especies afectadas
+
