@@ -10,7 +10,7 @@
 5. Derechos de animales en constitución
 6. Cambios a considerar para la Nueva constitución
 7. Cierre - Otras especies afectadas
-## INFOGRAFIA
+## INFOGRAFIA MAQUETA
 >Tema 1
 ![ScreenShot](https://raw.githubusercontent.com/KugaGraphic/Avance-nov9/main/images/1234.png)
 >Tema 4
