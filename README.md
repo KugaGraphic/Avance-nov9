@@ -12,7 +12,7 @@
 7. Cierre - Otras especies afectadas
 ## INFOGRAFIA
 >Tema 1
-![ScreenShot](https://raw.githubusercontent.com/KugaGraphic/Avance-nov9/main/images/123.png)
+![ScreenShot](https://raw.githubusercontent.com/KugaGraphic/Avance-nov9/main/images/Maqueta pumas.png)
 >Tema 4
 >Tema 5
 >Tema 6
