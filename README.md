@@ -1,15 +1,17 @@
 # :clapper: Avance de Trabajo de Infografía *Fauna Nativa y delimitación urbana*
 ## ESTRUCTURA
-1. Avistamientos de Pumas en pericentro
+1. Avistamientos de Pumas en pericentro.
  *Mapa con avistamientos en svg* 
-2. Motivos por lo que bajan/naturaleza del puma
- *Imagen triste del puma y blabla al costado* 
-3. Apropiamiento del hábitat animal y delimitación de la urbanización
+2. Motivos por lo que bajan/naturaleza del puma.
+ *Imagen del puma en cada una de sus caractirísticas* 
+3. Apropiamiento del hábitat animal y delimitación de la urbanización.
  *Mapa con crecimiento y efecto scroll*
-4. Regulación de urbanización  
-5. Derechos de animales en constitución
-6. Cambios a considerar para la Nueva constitución
-7. Cierre - Otras especies afectadas
+4. Regulación de urbanización.  
+5. Derechos de fauna nativa en constitución
+*Ilustración cabecitas fauna nativa*
+6. Cambios a considerar para la Nueva constitución.
+*ilustración constitución y pumitas*
+7. Cierre - Otras especies nativas afectadas.
 ## INFOGRAFIA MAQUETA
 ![ScreenShot](https://raw.githubusercontent.com/KugaGraphic/Avance-nov9/main/images/1234.png)
 
@@ -62,7 +64,7 @@ Otro factor importante es cómo se resguardan la ley y la constitución, las vid
 
 ## 6. Cambios a considerar para la Nueva constitución
 
-## 7. Cierre - Otras especies afectadas
+## 7. Cierre - Otras especies nativas afectadas
 Con estas caducidades ya se han perdido considerables áreas verdes, no sólo en la región metropolitana de Santiago sino a nivel país y por ello en esos territorios ya se están ejecutando obras de construcción de proyectos inmobiliarios sin que los vecinos de las zonas colindantes dispongan de las herramientas legales para reclamar por esas mermas de parques que generan infinidad de externalidades positivas : mejoran el paisaje, entregan oxígeno, capturan dióxido de carbono y reducen la temperatura, es decir, con las áreas verdes materializadas se mejora la calidad de vida de los habitantes. :page_with_curl:[MENOS ÁREAS VERDES](http://blogs.cooperativa.cl/opinion/medio-ambiente/20130209210751/menos-areas-verdes/)  
 
 :page_with_curl: [BIODIVERSIDAD URBANA EN CHILE](http://www.forestal.uach.cl/manejador/resources/cap-9-diaz-et-al.pdf)
